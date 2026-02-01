@@ -1,5 +1,5 @@
 const API_KEY = "YOUR_API_KEY_HERE"; // Put your secret key here
-
+AIzaSyArywHFyhq9Nl6YEpsy9fWObg0vaAMRQHM
 const chatBox = document.getElementById('messages');
 const userInput = document.getElementById('user-input');
 
